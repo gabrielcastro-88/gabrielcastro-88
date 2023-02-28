@@ -1,5 +1,8 @@
 <img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=header"/>
 
+### Olá, Eu sou Gabriel Castro
+- 💻 Hoje trabalho com Front-end
+- 👨🏽‍🎓 Estudando React Js
 ##
 <div>
   <a href="https://github.com/gabrielcastro-88">
