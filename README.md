@@ -1,4 +1,4 @@
-### Olá, eu sou Gabriel Castro 👋
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=black&height=120&section=header"/>
 
 ##
 <div>
@@ -25,3 +25,4 @@
 </div>
   
  
+<img width=100% src="https://capsule-render.vercel.app/api?type=waving&color=Black&height=120&section=footer"/>
